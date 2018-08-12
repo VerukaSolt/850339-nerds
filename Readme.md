@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Veronika Shorokhova](https://up.htmlacademy.ru/htmlcss/22/user/850339).
-* Наставник: [Alina Vaneeva].
+* Наставник: [Alina Vanieva](https://htmlacademy.ru/profile/alivander).
 
 ---
 
